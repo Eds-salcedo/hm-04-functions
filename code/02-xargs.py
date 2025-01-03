@@ -33,3 +33,5 @@ def sumas(*numeros):
 sumas(3, 7, 10)
 sumas(3, 5)
 sumas(32, 45, 78, 99, 101)
+
+# Also, keep in mind that Xargs are used for opening the doors into  DEF function to multiple (intially undetermined) number of arguments that do not have a previously defined name, so you will have to enter the whole data structure, whether it is just a simple number or if it's a dictionary, tuple, list, etc.
