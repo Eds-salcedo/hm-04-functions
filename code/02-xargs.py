@@ -1,5 +1,5 @@
 """
-LET'S LEARN HOW XARGS WORK
+LET'S LEARN HOW XARGS OR *ARGS WORK
 """
 
 # Xargs are used in case that you want to enter an undetermined number of arguments into a DEF function
